@@ -2,6 +2,8 @@ Welcome to my github!
 
 My github be updated with relevant repos further in time.
 
+Link to my unstructured github: https://github.com/eddigavell
+
 Regards, Edvin
 
 <!---
